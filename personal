@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume - [Your Name]</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        
+        h1,
+        h2 {
+            color: #333;
+        }
+        
+        p {
+            margin-bottom: 10px;
+        }
+        
+        .section {
+            margin-bottom: 20px;
+        }
+        
+        .section-title {
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        
+        th,
+        td {
+            padding: 8px;
+            border-bottom: 1px solid #ddd;
+            text-align: left;
+        }
+        
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>Sruthi Panjala</h1>
+            <p>Email: sruthipanjala123@gmail.com</p>
+            <p>Phone: 9963860772</p>
+            <p>LinkedIn id:Panjala Sruthi</p>
+        </header>
+
+        <section class="section">
+            <h2 class="section-title">Technical Skills</h2>
+            <ul>
+                <li>Programming Languages: HTML, CSS, JavaScript, Python,C language,Java</li>
+                <li>Frameworks: React</li>
+                <li>Database: SQL, MongoDB</li>
+                <li>Version Control: Git,VScode</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2 class="section-title">Education</h2>
+            <table>
+                <tr>
+                    <th>Qualification</th>
+                    <th>School/College</th>
+                    <th>Place</th>
+                    <th>Percentage/CGPA</th>
+                    <th>Year</th>
+                </tr>
+                <tr>
+                    <td>High School</td>
+                    <td>The Laurel High School</td>
+                    <td>Karminagar</td>
+                    <td>97%</td>
+                    <td>2019</td>
+                </tr>
+                <tr>
+                    <td>Intermediate</td>
+                    <td>Trinity Junior College</td>
+                    <td>Karminagar</td>
+                    <td>95%</td>
+                    <td>2021</td>
+
+                </tr>
+                <tr>
+                    <td>Bachelor's Degree</td>
+                    <td>CMR Institute of Technology</td>
+                    <td>Hyderabad</td>
+                    <td>8.9</td>
+                    <td>2021-2025</td>
+                </tr>
+            </table>
+
+        </section>
+        <section class="section">
+            <h2 class="section-title">Projects</h2>
+            <ul>
+                <li>Restaurant website using HTML and CSS</li>
+                <li>Password generetor using HTML,CSS and JavaScript</li>
+                <li>WeatherAPP using HTML,CSS and JavaScript</li>
+            </ul>
+        </section>
+        <section class="section">
+            <h2 class="section-title">Internships</h2>
+            <ul>
+                <li>Java Programming-InternPE</li>
+                <li>Java Programming-Edugene Technologies</li>
+            </ul>
+        </section>
+        <section class="section">
+            <h2 class="section-title">Achievements</h2>
+            <ul>
+                <li>Basics of Python Infosys Springboard</li>
+                <li>AWS Academy Data Analytics</li>
+                <li>Participation Certificate in Smart India Hackathon -202</li>
+                <li>Introduction to Artificial Intelligence</li>
+            </ul>
+        </section>
+</div>
+</body>
+</html>
